@@ -18,14 +18,14 @@ Traditional air quality monitoring systems are expensive, stationary, and inacce
 - Telegram Bot API - Real-time push notifications for pollution alerts
 
 # ✨ Features
-- 📡 Real-Time Monitoring — Continuously reads CO, CO₂, TVOC, temperature, and humidity every 60 seconds
-- ☁️ Cloud Integration — Streams all sensor data to FavorIoT dashboard via MQTT in JSON format
-- 📊 Data Visualization — Interactive FavorIoT dashboard with timestamped data streams and trend analysis
-- 🔔 Instant Telegram Alerts — Pushes notifications directly to your phone when pollution is detected
-- 🏷️ Pollution Classification — Automatically labels readings as No Pollution, Moderate Pollution, or High Pollution
-- 🔁 Wi-Fi Auto-Reconnect — Retries connection up to 10 times to ensure reliability in unstable networks
-- 💰 Affordable — Total cost of only MYR 105.82, making it accessible to communities, schools, and individuals
-= 🔌 Portable & Modular — Breadboard-based design that can be deployed in various environments
+- 📡 Real-Time Monitoring - Continuously reads CO, CO₂, TVOC, temperature, and humidity every 60 seconds
+- ☁️ Cloud Integration - Streams all sensor data to FavorIoT dashboard via MQTT in JSON format
+- 📊 Data Visualization - Interactive FavorIoT dashboard with timestamped data streams and trend analysis
+- 🔔 Instant Telegram Alerts - Pushes notifications directly to your phone when pollution is detected
+- 🏷️ Pollution Classification - Automatically labels readings as No Pollution, Moderate Pollution, or High Pollution
+- 🔁 Wi-Fi Auto-Reconnect - Retries connection up to 10 times to ensure reliability in unstable networks
+- 💰 Affordable - Total cost of only MYR 105.82, making it accessible to communities, schools, and individuals
+= 🔌 Portable & Modular - Breadboard-based design that can be deployed in various environments
 
 # ⌨️ Keyboard Shortcuts
 This project runs on embedded hardware (ESP32). The following shortcuts apply within the UpyCraft IDE development environment.
