@@ -1,6 +1,6 @@
 # IoT-Air_Pollution_Monitoring_System
 The IoT Air Pollution Monitoring System is a prototype developed as part of the CSF3313 IoT Computing course at Universiti Malaysia Terengganu (UMT). It addresses the gap in affordable, real-time air quality monitoring by combining low-cost hardware with cloud-based visualization and instant notifications.
-Traditional air quality monitoring systems are expensive, stationary, and inaccessible to small communities. This project bridges that gap with a portable, cost-effective solution that anyone — from individuals to policymakers — can use to understand and react to their air quality environment.
+Traditional air quality monitoring systems are expensive, stationary, and inaccessible to small communities. This project bridges that gap with a portable, cost-effective solution that anyone- from individuals to policymakers- can use to understand and react to their air quality environment.
 
 # Technology 
 # Hardware
